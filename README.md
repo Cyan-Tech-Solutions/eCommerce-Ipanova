@@ -1,4 +1,4 @@
-# eCommerce-Ipanova e-Commerce de moda femenina
+# Ipanova e-Commerce de moda femenina
 
 [👀 **View Demo**](https://ipanova.com.br)
 
